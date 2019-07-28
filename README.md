@@ -8,3 +8,6 @@ tree an ordered tree data structure used to store a dynamic set or associative a
 
 Example output of program in the given input is -:  
 
+Input -: do dont no not note notes -1  
+Let word given for auto completion be -: no  
+Output -: no not note notes 
